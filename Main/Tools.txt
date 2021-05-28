@@ -10,5 +10,14 @@ Software:
   2. Build on Linux
     a. Main desktop is Fedora - Will have to see how to manage port from Linux > Windows/Mac
   
+Documentation:
+  1. Sources for information
+    a. https://en.wikipedia.org/wiki/Britney_Spears
+    b. https://en.wikipedia.org/wiki/Britney_Spears_discography
+    c. https://en.wikipedia.org/wiki/Britney_Spears_products
+    d. https://en.wikipedia.org/wiki/Britney_Spears_videography
+    e. https://en.wikipedia.org/wiki/Britney_Spears_Live%3A_The_Femme_Fatale_Tour
+    f. https://en.wikipedia.org/wiki/Britney_Spears%3A_In_the_Zone
+    g. https://en.wikipedia.org/wiki/James_Parnell_Spears
 
 Not Viable:
