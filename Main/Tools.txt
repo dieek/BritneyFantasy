@@ -1,0 +1,14 @@
+This file is to define all tools used in creation of Britney Fantasy.
+
+Hardware:
+
+Software:
+  1. RPG Maker MV
+    a. It was on sale on Steam
+    b. Wanted to emulate Barkley, Shut Up and Jam: Gaiden, and thought this would be the best way to pursue.
+    c. Came bundled with Visual Novel maker, so hopefully make some lewd VNs on the side to help build residual income ;)
+  2. Build on Linux
+    a. Main desktop is Fedora - Will have to see how to manage port from Linux > Windows/Mac
+  
+
+Not Viable:
