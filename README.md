@@ -21,6 +21,8 @@ A repository to start working collaboratively on the development of a video game
 
 7 ![image](https://user-images.githubusercontent.com/26450730/120019782-78fd1a00-bfae-11eb-9d52-f871d96e4cef.png)
 
+6 ![image](https://user-images.githubusercontent.com/26450730/120042565-f1c09e00-bfcf-11eb-85ae-26fb972d5641.png)
+
 5 ![image](https://user-images.githubusercontent.com/26450730/120019678-5b2fb500-bfae-11eb-9b1b-aa1f73d592c9.png)
 
 4 ![image](https://user-images.githubusercontent.com/26450730/120019921-a77af500-bfae-11eb-83e9-c90937114470.png)
